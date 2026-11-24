@@ -1,8 +1,8 @@
 def greet(name):
     return f"Hello, {name}"
 
-def farewell(name):
-    return f"Bye, {name}"
+def login():
+    return "Login Successful"
 
 print(greet("Shravan"))
-print(farewell("Shravan"))
+print(login())
