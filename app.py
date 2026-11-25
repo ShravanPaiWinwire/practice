@@ -6,3 +6,6 @@ def farewell(name):
 
 print(greet("Shravan"))
 print(farewell("Shravan"))
+
+def profile():
+    return "Profile Loaded"
